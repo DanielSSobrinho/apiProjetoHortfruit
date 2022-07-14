@@ -1,0 +1,52 @@
+{
+  "hortfruit": [
+    {
+      "id": 2,
+      "fruta": "melao",
+      "valor": "5.36",
+      "foto": "./36"
+    },
+    {
+      "id": 3,
+      "fruta": "Maça",
+      "valor": "R$ 7,40",
+      "foto": "/assets/1.png"
+    },
+    {
+      "id": 4,
+      "fruta": "Maça",
+      "valor": "R$ 7,40",
+      "foto": "/assets/1.png"
+    },
+    {
+      "id": 5,
+      "fruta": "Abacate",
+      "valor": "R$ 7,40",
+      "foto": "/assets/1.png"
+    },
+    {
+      "id": 6,
+      "fruta": "Kiwi",
+      "valor": "R$ 7,40",
+      "foto": "/assets/1.png"
+    },
+    {
+      "id": 7,
+      "fruta": "Abacaxi",
+      "valor": "R$ 7,40",
+      "foto": "/assets/1.png"
+    },
+    {
+      "id": 8,
+      "fruta": "Pera",
+      "valor": "R$ 7,40",
+      "foto": "/assets/1.png"
+    },
+    {
+      "id": "9",
+      "fruta": "abacaxi",
+      "valor": "140",
+      "foto": "./50"
+    }
+  ]
+}
